@@ -16,10 +16,10 @@
                 "操作系统",
                 "Linux",
                 "配置",
-                "教程",
-                "Linux",
                 "udev",
+                "教程",
                 "鼠标驱动",
+                "Linux",
                 "device"
             ]
         },
@@ -51,11 +51,11 @@
                 "操作系统",
                 "Linux",
                 "指南",
-                "Vim",
                 "教程",
+                "Linux",
+                "Vim",
                 "IDE",
-                "Editor",
-                "Linux"
+                "Editor"
             ]
         }
     ]

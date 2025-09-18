@@ -72,10 +72,10 @@
         <category term="操作系统" scheme="https://blog.yaojiu.org/categories/OS/" />
         <category term="Linux" scheme="https://blog.yaojiu.org/categories/OS/Linux/" />
         <category term="配置" scheme="https://blog.yaojiu.org/categories/OS/Linux/Config/" />
-        <category term="教程" scheme="https://blog.yaojiu.org/tags/Tutorial/" />
-        <category term="Linux" scheme="https://blog.yaojiu.org/tags/Linux/" />
         <category term="udev" scheme="https://blog.yaojiu.org/tags/udev/" />
+        <category term="教程" scheme="https://blog.yaojiu.org/tags/Tutorial/" />
         <category term="鼠标驱动" scheme="https://blog.yaojiu.org/tags/%E9%BC%A0%E6%A0%87%E9%A9%B1%E5%8A%A8/" />
+        <category term="Linux" scheme="https://blog.yaojiu.org/tags/Linux/" />
         <category term="device" scheme="https://blog.yaojiu.org/tags/device/" />
         <updated>2025-08-10T15:18:47.000Z</updated>
     </entry>
@@ -399,11 +399,11 @@
         <category term="操作系统" scheme="https://blog.yaojiu.org/categories/OS/" />
         <category term="Linux" scheme="https://blog.yaojiu.org/categories/OS/Linux/" />
         <category term="指南" scheme="https://blog.yaojiu.org/categories/OS/Linux/Tutorial/" />
-        <category term="Vim" scheme="https://blog.yaojiu.org/tags/Vim/" />
         <category term="教程" scheme="https://blog.yaojiu.org/tags/Tutorial/" />
+        <category term="Linux" scheme="https://blog.yaojiu.org/tags/Linux/" />
+        <category term="Vim" scheme="https://blog.yaojiu.org/tags/Vim/" />
         <category term="IDE" scheme="https://blog.yaojiu.org/tags/IDE/" />
         <category term="Editor" scheme="https://blog.yaojiu.org/tags/Editor/" />
-        <category term="Linux" scheme="https://blog.yaojiu.org/tags/Linux/" />
         <updated>2025-08-09T09:43:57.000Z</updated>
     </entry>
 </feed>

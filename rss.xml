@@ -19,10 +19,10 @@
             <category term="操作系统" scheme="https://blog.yaojiu.org/categories/OS/" />
             <category term="Linux" scheme="https://blog.yaojiu.org/categories/OS/Linux/" />
             <category term="配置" scheme="https://blog.yaojiu.org/categories/OS/Linux/Config/" />
-            <category term="教程" scheme="https://blog.yaojiu.org/tags/Tutorial/" />
-            <category term="Linux" scheme="https://blog.yaojiu.org/tags/Linux/" />
             <category term="udev" scheme="https://blog.yaojiu.org/tags/udev/" />
+            <category term="教程" scheme="https://blog.yaojiu.org/tags/Tutorial/" />
             <category term="鼠标驱动" scheme="https://blog.yaojiu.org/tags/%E9%BC%A0%E6%A0%87%E9%A9%B1%E5%8A%A8/" />
+            <category term="Linux" scheme="https://blog.yaojiu.org/tags/Linux/" />
             <category term="device" scheme="https://blog.yaojiu.org/tags/device/" />
             <pubDate>Sun, 10 Aug 2025 23:18:47 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
@@ -168,11 +168,11 @@
             <category term="操作系统" scheme="https://blog.yaojiu.org/categories/OS/" />
             <category term="Linux" scheme="https://blog.yaojiu.org/categories/OS/Linux/" />
             <category term="指南" scheme="https://blog.yaojiu.org/categories/OS/Linux/Tutorial/" />
-            <category term="Vim" scheme="https://blog.yaojiu.org/tags/Vim/" />
             <category term="教程" scheme="https://blog.yaojiu.org/tags/Tutorial/" />
+            <category term="Linux" scheme="https://blog.yaojiu.org/tags/Linux/" />
+            <category term="Vim" scheme="https://blog.yaojiu.org/tags/Vim/" />
             <category term="IDE" scheme="https://blog.yaojiu.org/tags/IDE/" />
             <category term="Editor" scheme="https://blog.yaojiu.org/tags/Editor/" />
-            <category term="Linux" scheme="https://blog.yaojiu.org/tags/Linux/" />
             <pubDate>Sat, 09 Aug 2025 17:43:57 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;Vim是一款终端编辑器，轻量但功能强大,本指南适用于 Linux/macOS/Windows 用户&lt;/p&gt;
