@@ -1,0 +1,1 @@
+import{t as l}from"./class.Cv4PWPG3.js";import{aa as r,A as i}from"./custom-element.CeFvkdP3.js";function A(t,s,p,f){var a=t[r];if(i||a!==s){var e=l(s);(!i||e!==t.getAttribute("style"))&&(e==null?t.removeAttribute("style"):t.style.cssText=e),t[r]=s}return f}export{A as s};
